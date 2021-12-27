@@ -1,0 +1,123 @@
+701766 Feinerer, Hornik, Meyer/Feinerer, Hornik, Meyer - 2008 - Text Mining Infrastructure in R.pdf
+14297086 Tanenbaum/Tanenbaum - 2003 - Computer Networks.pdf
+14097349 Tanenbaum/Tanenbaum - 2003 - Computer Networks(2).pdf
+7276980 Witten, Frank, Hall/Witten, Frank, Hall - 2011 - Data Mining Practical Machine Learning Tools and Techniques, Third Edition.pdf
+233111 Alon/Alon - 2009 - How To Choose a Good Scientific Problem.pdf
+103917 Vpn/Vpn - Unknown - Google's R Style Guide.pdf
+350876 Wolpert, Macready/Wolpert, Macready - 1997 - No free lunch theorems for optimization.pdf
+263701 Yang, Liu/Yang, Liu - 1999 - A re-examination of text categorization methods.pdf
+17576744 Candel/Candel - Unknown - Deep Learning through Examples.pdf
+490313 Hotho, Nürnberger, Paaß/Hotho, Nürnberger, Paaß - 2005 - A Brief Survey of Text Mining.pdf
+1352523 Yang, Pedersen/Yang, Pedersen - 1997 - A comparative study on feature selection in text categorization.pdf
+1129870 Bengio/Bengio - 2009 - Learning Deep Architectures for AI.pdf
+380685 Harish, Narayanan/Harish, Narayanan - 2007 - LNCS 4873 - Accelerating Large Graph Algorithms on the GPU Using CUDA.pdf
+292843 Daly/Daly - 2010 - Natural Sciences Citations and References.pdf
+430788 Dörre, Gerstl, Seiffert/Dörre, Gerstl, Seiffert - 1999 - Text mining finding nuggets in mountains of textual data.pdf
+270710 Karypis, Han/Karypis, Han - 2000 - Fast supervised dimensionality reduction algorithm with applications to document categorization & retrieval.pdf
+640718 Kennedy/Kennedy - 2011 - Particle swarm optimization.pdf
+2010787 Chakrabarti, Roy, Soundalgekar/Chakrabarti, Roy, Soundalgekar - 2003 - Fast and accurate text classification via multiple linear discriminant projections.pdf
+8302192 Feldman, Sanger/Feldman, Sanger - 2007 - The text mining handbook advanced approaches in analyzing unstructured data.pdf
+224842 Baker, McCallum/Baker, McCallum - 1998 - Distributional clustering of words for text classification.pdf
+104893 Wikipedia/Wikipedia - 2012 - Text mining --- Wikipedia, The Free Encyclopedia_files/220px-Tripletsnew2012.png
+408 Wikipedia/Wikipedia - 2012 - Text mining --- Wikipedia, The Free Encyclopedia_files/8px-Open_Access_logo_PLoS_transparent.png
+177408 Wikipedia/Wikipedia - 2012 - Text mining --- Wikipedia, The Free Encyclopedia_files/load.php
+2426 Wikipedia/Wikipedia - 2012 - Text mining --- Wikipedia, The Free Encyclopedia_files/wikimedia-button.png
+66913 Wikipedia/Wikipedia - 2012 - Text mining --- Wikipedia, The Free Encyclopedia_files/load_002.php
+70633 Wikipedia/Wikipedia - 2012 - Text mining --- Wikipedia, The Free Encyclopedia_files/load_002.css
+3525 Wikipedia/Wikipedia - 2012 - Text mining --- Wikipedia, The Free Encyclopedia_files/poweredby_mediawiki_88x31.png
+20610 Wikipedia/Wikipedia - 2012 - Text mining --- Wikipedia, The Free Encyclopedia_files/load.css
+392708 Wikipedia/Wikipedia - 2012 - Text Mining.pdf
+171170 Wikipedia/Wikipedia - 2012 - Text mining --- Wikipedia, The Free Encyclopedia.html
+309228 Chouakria, Nagabhushan/Chouakria, Nagabhushan - 2007 - Adaptive dissimilarity index for measuring time series proximity.pdf
+502729 Miner et al/Miner et al. - 2012 - Practical Text Mining and Statistical Analysis for Non-structured Text Data Applications, 1st ed.pdf
+309683 Tong, Koller/Tong, Koller - 2002 - Support vector machine active learning with applications to text classification.pdf
+492319 Guide/Guide - 2016 - Best Laptop Brands of 2016 with Ultimate Buying Guide .pdf
+307007 Pohlert/Pohlert - 2016 - The Pairwise Multiple Comparison of Mean Ranks Package (PMCMR).pdf
+1502681 Raynor/Raynor - 1999 - The International Dictionary of Artificial Intelligence.pdf
+356652 Midtiby/Midtiby - 2012 - The todonotes package.pdf
+267233 Clerc/Clerc - 2010 - Particle swarm optimization.pdf
+218483 Slonim, Tishby/Slonim, Tishby - 2001 - The power of word clusters for text classification.pdf
+468266 Vial, Berezowski/Vial, Berezowski - 2014 - A practical approach to designing syndromic surveillance systems for livestock and poultry.pdf
+884965 Abadi et al/Abadi et al. - 2015 - TensorFlow Large-Scale Machine Learning on Heterogeneous Distributed Systems.pdf
+659525 Falcon, Gonzalez/Falcon, Gonzalez - 2015 - Implementacion de metodos para la clasificacion de series temporales.pdf
+1236039 Baeza-Yates, Frakes/Baeza-Yates, Frakes - 1992 - Information retrieval data structures & algorithms.pdf
+18212191 Bertsekas, Tsitsiklis/Bertsekas, Tsitsiklis - Unknown - Introduction to Probability.pdf
+1613319 Bambenek, Klus/Bambenek, Klus - 2009 - grep Pocket Reference.pdf
+82601 Dumais, Platt/Dumais, Platt - 1998 - Inductive learning algorithms and representations for text categorization.pdf
+176235 Nigam et al/Nigam et al. - 2000 - Text classification from labeled and unlabeled documents using EM.pdf
+253433 Forman/Forman - 2003 - An extensive empirical study of feature selection metrics for text classification.pdf
+147924 Correa, Freitas, Johnson/Correa, Freitas, Johnson - Unknown - A New Discrete Particle Swarm Algorithm Applied to Attribute Selection in a Bioinformatics Data Set.pdf
+142281 Veterinary/Veterinary - 2007 - Simulated detection of syndromic classical swine fever on a Finnish pig-breeding farm.pdf
+149546 Chakraborti, Mukras, Lothian/Chakraborti, Mukras, Lothian - 2007 - Supervised Latent Semantic Indexing Using Adaptive Sprinkling.pdf
+219137 Archive/Zhang, Stoffel - 2012 - Visual analytics for the big data era—A comparative review of state-of-the-art commercial systems.pdf
+974272 Colace et al/Colace et al. - 2014 - Text classification using a few labeled examples.pdf
+19936382 Blum, Bresnahan/Blum, Bresnahan - 2015 - Linux Command Line and Shell Scripting Bible.pdf
+7842 Blum, Bresnahan/Blum, Bresnahan - 2015 - Linux Command Line and Shell Scripting Bible.zip
+76507 Wickham/Wickham - 2015 - Introduction to roxygen2.pdf
+305411 Mladenić, Brank/Mladenić, Brank - 2004 - Feature selection using linear classifier weights interaction with classification models.pdf
+1021308 Douzal-Chouakria, Amblard/Douzal-Chouakria, Amblard - 2012 - Classification trees for time series.pdf
+159874 Yan et al/Yan et al. - 2005 - OCFS optimal orthogonal centroid feature selection for text categorization.pdf
+457689 Aggarwal, Gates, Yu/Aggarwal, Gates, Yu - 2004 - On using partial supervision for text categorization.pdf
+514863 Baharudin, Lee, Khan/Baharudin, Lee, Khan - 2010 - A Review of Machine Learning Algorithms for Text-Documents Classification.pdf
+1757164 Oetiker et al/Oetiker et al. - 2014 - The Not So Short Introduction to L ATEX.pdf
+218858 Hofmann/Hofmann - 1999 - Probabilistic latent semantic indexing.pdf
+273514 Clark/Clark - 2015 - Google Turning Its Lucrative Web Search Over to AI Machines.pdf
+238950 Patel, Soni/Patel, Soni - 2012 - Text mining A Brief survey.pdf
+453036 Solka/Solka - 2008 - Text Data Mining Theory and Methods.pdf
+126677 Yang/Yang - 1995 - Noise reduction in a statistical approach to text categorization.pdf
+4044926 Tushar, Lakshman/Tushar, Lakshman - 2013 - Linux Shell Scripting Cookbook.pdf
+8454231 Tanenbaum, Wetherall/Tanenbaum, Wetherall - 2011 - Computer Networks.pdf
+781571 Hearst/Hearst - 1999 - Untangling text data mining.pdf
+105899 Hearst/Hearst - 2003 - What is text mining.pdf
+384816 Tarrago/Tarrago - 2015 - Deteccion de noticias relevantes.pdf
+3603950 Landauer, Foltz, Laham/Landauer, Foltz, Laham - 1998 - An introduction to latent semantic analysis.pdf
+70185 Joachims/Joachims - 2002 - Learning to classify text using support vector machines Methods, theory and algorithms.pdf
+261360 Joachims/Joachims - 1999 - Transductive inference for text classification using support vector machines.pdf
+657786 Aggarwal, Zhai/Aggarwal, Zhai - 2012 - Mining text data.pdf
+395232 Aggarwal, Zhai/Aggarwal, Zhai - 2012 - A survey of text classification algorithms.pdf
+4257981 Kinney/Kinney - 2015 - Probability An Introduction with Statistical Applications.pdf
+11853470 Cocker-bogusz/Cocker-bogusz - 2003 - This edition may be sold only in those countries to which it is consigned by Pearson Education International. It.pdf
+348326 Bekkerman et al/Bekkerman et al. - 2001 - On feature distributional clustering for text categorization.ps
+146626 Bekkerman et al/Bekkerman et al. - 2001 - On feature distributional clustering for text categorization.pdf
+757705 Sebastiani/Sebastiani - 2002 - Machine learning in automated text categorization.pdf
+818424 Alvarez, de Zayas, Carlos/Alvarez, de Zayas, Carlos - 1992 - La escuela en la vida.pdf
+159804 McCallum/McCallum - 1999 - Multi-label text classification with a mixture model trained by EM.pdf
+35580627 Fernández, Morcillo, Jiménez/Fernández, Morcillo, Jiménez - 2014 - Programación Concurrente y Tiempo Real.pdf
+129760 Type, Type/Type, Type - 2012 - The Chi Square Statistic.pdf
+18920421 Walter Mora, Alexandrer Borbón/Walter Mora, Alexandrer Borbón - 2014 - Edición de Textos Científicos con LATEX. Composición, Gráficos, Inkscape y Presentaciones B.pdf
+241623 Kamruzzaman, Haider, Hasan/Kamruzzaman, Haider, Hasan - 2010 - Text Classification using Data Mining.pdf
+19104704 Maimon, Rokach/Maimon, Rokach - 2005 - Data mining and knowledge discovery handbook.pdf
+19401781 Maimon, Rokach/Maimon, Rokach - 2005 - Data mining and knowledge discovery handbook(2).pdf
+29729 Uni et al/Uni et al. - 2006 - Nuevos retos en salud pública la vigilancia sindrómica como una nueva forma de vigilancia epidemiológica.pdf
+187124 Calvo, Santafé/Calvo, Santafé - 2015 - scmamp Statistical Comparison of Multiple Algorithms in Multiple Problems.pdf
+275125 Superior/Superior - 2007 - Reglamento para el Trabajo Docente y Metodológico en la educación superior.pdf
+747905 Learning et al/Learning et al. - Unknown - 04 06 08 10.pdf
+49708 Witten, Paynter, Frank/Witten, Paynter, Frank - 1999 - KEA Practical automatic keyphrase extraction.pdf
+279821 Package et al/Package et al. - 2014 - Package ‘TSclust’.pdf
+372553 Uysal, Gunal/Uysal, Gunal - 2014 - The impact of preprocessing on text classification.pdf
+10905898 Unknown/Unknown - Unknown - tensorflow-0.whl
+2068480 Unknown/Unknown - Unknown - La Escuela en la Vida.doc
+128218 Unknown/Unknown - Unknown - Proyecto Vigilancia sindrómica.pptx
+1203448 Deerwester et al/Deerwester et al. - 1990 - Indexing by latent semantic analysis.pdf
+2014612 Gupta, Lehal/Gupta, Lehal - 2009 - A survey of text mining techniques and applications.pdf
+29819 Tan/Tan - 1999 - Text mining The state of the art and the challenges.pdf
+1690900 Berry, Castellanos/Berry, Castellanos - 2007 - Survey of Text Mining Clustering, Classification, and Retrieval, Second Edition.pdf
+24304018 Berry, Castellanos/Berry, Castellanos - 2007 - Survey of Text Mining Clustering, Classification, and Retrieval, Second Edition(2).pdf
+197343 Cohen, Hunter/Cohen, Hunter - 2008 - Getting started in text mining.pdf
+5640056 Pentreath/Pentreath - 2015 - Machine Learning with Spark.pdf
+330185 McCallum, Nigam/McCallum, Nigam - 1998 - A comparison of event models for naive bayes text classification.pdf
+186068 Lodhi, Saunders/Lodhi, Saunders - 2002 - Text classification using string kernels.pdf
+607520 Eíto Brun, Senso/Eíto Brun, Senso - 2004 - Minería textual.pdf
+2511483 Zhao/Zhao - 2014 - R and Data Mining Examples and Case Studies.pdf
+1635978 Vijayarani, Ilamathi, Nithya/Vijayarani, Ilamathi, Nithya - 2015 - Preprocessing Techniques for Text Mining - An Overview.pdf
+632090 Kang, Faloutsos/Kang, Faloutsos - 2013 - Big graph mining algorithms and discoveries.pdf
+8040356 Robbins, Beebe/Robbins, Beebe - 2005 - Shell Scripting.pdf
+98156 Wiener, Pedersen, Weigend/Wiener, Pedersen, Weigend - 1995 - A neural network approach to topic spotting.pdf
+245870 Wiener, Pedersen, Weigend/Wiener, Pedersen, Weigend - 1995 - A neural network approach to topic spotting(2).pdf
+1218496 Sriram, Fuhry/Sriram, Fuhry - 2010 - Short text classification in twitter to improve information filtering.pdf
+340764 Marteau, Gibet/Marteau, Gibet - 2010 - Constructing Positive Definite Elastic Kernels with Application to Time Series Classification.pdf
+386282 Wolpert/Wolpert - 1995 - No free lunch theorems for search.pdf
+1205020 Lewis/Lewis - 1992 - An evaluation of phrasal and clustered representations on a text categorization task.pdf
+7979049 Chacon, Straub/Chacon, Straub - 2015 - Pro Git.pdf
+735634 Feldman, Dagan/Feldman, Dagan - 1995 - Knowledge Discovery in Textual Databases (KDT).pdf
+472349 Poli, Kennedy, Blackwell/Poli, Kennedy, Blackwell - 2007 - Particle swarm optimization.pdf
